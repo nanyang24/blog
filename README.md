@@ -1,28 +1,35 @@
-# blog
-## Notes
+# Notes & Blog
 ## The experience of coding
 ### Learning the front end of the summary and blog to share knowledge.
+### 作为学习过程中的总结和记录，涵盖的内容由浅至深
 
 ## 概览
-### 作为学习过程中的总结和记录，涵盖的内容由浅至深
-### 主要的内容
+
+### React
+1. 基础
+1. setState 要点
+
+### Vue
+1. 基础 & 要领
+1. Vuex 总结
 
 ### JavaScript
 1. 基础语法
-3. 事件
-2. 闭包
-3. Ajax & 跨域
-4. 常见的页面布局加载
-5. this
-5. 对象 & 原型 & 原型链
-5. jQuery
-5. 模块化 & 规范
-6. 工程化 webpack & gulp
-7. 设计模式
-8. 单线程 & 异步机制
-9. ES6、7
-10. 算法
-11. 注意点
+1. 闭包 & 作用域 & Hoisting
+1. this 指向
+1. 对象 & 原型 & 原型链
+1. 单线程 & 异步机制
+1. 执行机制
+1. 事件
+1. Ajax & 跨域
+1. jQuery
+1. 常见的页面布局加载
+1. 模块化 & 规范
+1. 工程化 webpack & gulp
+1. ES6、7
+1. 设计模式
+1. 算法
+1. 注意点
 
 ### CSS
 1. 选择器
@@ -33,6 +40,7 @@
 5. 兼容性（hack）
 7. Sprite，Iconfont，@font-face
 6. CSS3 动画
+1. 小技巧
 
 ### HTML
 1. BOM
