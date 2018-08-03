@@ -8,6 +8,8 @@
 ### React
 1. 基础
 1. setState 要点
+1. react事件绑定 this
+1. HOC
 
 ### Vue
 1. 基础 & 要领
@@ -15,7 +17,7 @@
 
 ### JavaScript
 1. 基础语法
-1. 闭包 & 作用域 & Hoisting
+1. 闭包 & 函数作用域&词法作用域 & Hoisting
 1. this 指向
 1. 对象 & 原型 & 原型链
 1. 单线程 & 异步机制
@@ -30,6 +32,10 @@
 1. 设计模式
 1. 算法
 1. 注意点
+1. ES5与ES6：继承的区别
+1. ES6类方法与属性初始化箭头函数的区别
+1. addEventListener 第三个参数
+1. let 声明真的提升了吗
 
 ### CSS
 1. 选择器
@@ -41,6 +47,7 @@
 7. Sprite，Iconfont，@font-face
 6. CSS3 动画
 1. 小技巧
+1. 巧用margin/padding占位
 
 ### HTML
 1. BOM
